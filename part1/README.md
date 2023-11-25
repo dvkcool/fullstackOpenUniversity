@@ -17,3 +17,17 @@ cd courseInfo
 npm install
 npm run dev
 ```
+
+## Solutions
+
+### Course Info(Ex1.1 - 1.5)
+[Sorce code](./courseInfo/src/App.jsx)
+![](./courseInfo/Ex1_5.png)
+
+### Unicafe(Ex1.6-1.11)
+[Sorce code](./unicafe/src/App.jsx)
+![](./unicafe/Ex1_11.png)
+
+### Anecdotes (Ex1.12-Ex1.14)
+[Sorce code](./anecdotes/src/App.jsx)
+![](./anecdotes/Ex1_14.png)
